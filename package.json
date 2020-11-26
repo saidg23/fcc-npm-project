@@ -1,6 +1,6 @@
 {
-	"author": "Said Garcia",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Said Garcia",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
